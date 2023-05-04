@@ -19,38 +19,3 @@ img {
     height:500px;
     width: fit-content;
 }
-
-.image-container {
-    display: flex;
-    flex-wrap: wrap;
-    max-width: 1920px; /* adjust this value based on the maximum width you want for the container */
-    margin: 0 auto; /* center the container horizontally */
-  }
-  
-  .image-container img {
-    flex-basis: calc(33.33% - 0px); /* adjust the padding value if necessary */
-    margin-bottom: 20px; /* adjust the margin value if necessary */
-  }
-
-p {
-    font-family: Source Sans Pro, serif;
-}
-
-#company-info {
-
-
-}
-
-footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    padding-left:10px;
-    background-color:#012f41;
-}
-
-#copyright {
-    color:#F9F8EB;
-    letter-spacing: 0.2em;
-    font-size: 15px;
-}
