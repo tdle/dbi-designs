@@ -1,0 +1,102 @@
+@font-face {
+    font-family: 'Raleway', sans-serif;
+    src: url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400&display=swap");
+}
+
+.container {
+    border: 2px solid black;
+    padding-left: 10px;
+    margin: 10px auto;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 16%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.color-hex {
+    color:white;
+    font-size: 20px;
+    padding-top:45px;
+    text-align: center;
+}
+
+.color-daintree {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #012f41;
+}
+
+.color-mercury {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #e6e6e6;
+}
+
+.color-loblolly {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #c5cfd4;
+}
+
+.color-blue-bayoux {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #466675;
+}
+
+.color-juniper {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #748c94;
+}
+
+.color-slate-gray {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #647c8c;
+}
+
+.color-pickeled-bluewood {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #345464;
+}
+
+.color-blue-dianne {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #244c5c;
+}
+
+.color-elephant {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #143c4c;
+}
+
+.raleway-light {
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.font-raleway {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+}
+
+.raleway-italic {
+    font-style: italic;
+}
