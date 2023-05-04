@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:wght@100;200&display=swap');
+
+.container {
+    border: 2px solid black;
+    padding-left: 10px;
+    margin: 10px auto;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 16%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.color-hex {
+    color:white;
+    font-size: 20px;
+    padding-top:45px;
+    text-align: center;
+}
+
+.color-daintree {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #012f41;
+}
+
+.color-mercury {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #e6e6e6;
+}
+
+.color-loblolly {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #c5cfd4;
+}
+
+.color-blue-bayoux {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #466675;
+}
+
+.color-juniper {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #748c94;
+}
+
+.color-slate-gray {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #647c8c;
+}
+
+.color-pickeled-bluewood {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #345464;
+}
+
+.color-blue-dianne {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #244c5c;
+}
+
+.color-elephant {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #143c4c;
+}
+
+.font-container {
+    font-size: 20px;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 30%;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.font-roboto {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}
+
+.roboto-italic {
+    font-style: italic;
+}
+
+.font-raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.raleway-italic {
+    font-style: italic;
+}
+
+.font-ysabeau {
+    font-family: 'Ysabeau', sans-serif;
+}
+
+.ysabeau-italic {
+    font-style: italic;
+}

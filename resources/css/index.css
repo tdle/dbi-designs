@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Source Sans Pro, serif;
+    src: url(https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400&display=swap);
+}
+
+body {
+    max-width: 1920px;
+    margin: 0 auto;
+    background-color: #fdfcfc;
+}
+
+header {
+    background-color: #012f41;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    height:500px;
+    width: fit-content;
+}
